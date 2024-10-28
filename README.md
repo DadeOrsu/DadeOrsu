@@ -4,9 +4,9 @@ I'm a Computer Science student at the University of Pisa, passionate about techn
 
 ## About Me
 
-- 🎓 Currently studying Computer Science at the University of Pisa
+- 🎓 Currently studying Computer Science at the University of Pisa.
 - 🌍 Interested in projects involving distributed systems and other fields related to computer science.
-- 💻 Always eager to learn new technologies and improve my programming skills
+- 💻 Always eager to learn new technologies and improve my programming skills.
 
 ## Get in Touch
 
