@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Dade Orsu! 👋
 
-<!--
-**DadeOrsu/DadeOrsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Pisa, passionate about technology and software development. My main area of interest is in **distributed systems**, where I enjoy exploring how to create scalable and efficient applications that work across multiple machines.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying Computer Science at the University of Pisa
+- 🌍 Interested in projects involving distributed systems, cloud computing, and microservices architecture
+- 💻 Always eager to learn new technologies and improve my programming skills
+
+## Get in Touch
+
+- 📫 You can reach me at: [dade.orsu@gmail.com](mailto:dade.orsu@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/davide-orsucci-206319250/)
+- 🐦 Follow me on [Instagram](https://www.instagram.com/davide_orsucci/)
+
+Thanks for stopping by! I'm always open to collaborating on interesting projects, especially those related to distributed systems. Let's connect!
