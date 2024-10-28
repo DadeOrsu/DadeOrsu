@@ -1,4 +1,4 @@
-# Hi there, I'm Davide Orsucci! 👋
+# Hi there, I'm Davide Orsucci. 👋
 
 I'm a Computer Science student at the University of Pisa, passionate about technology and software development.
 
