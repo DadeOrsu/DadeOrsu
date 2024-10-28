@@ -1,11 +1,11 @@
 # Hi there, I'm Davide Orsucci! 👋
 
-I'm a Computer Science student at the University of Pisa, passionate about technology and software development. My main area of interest is in **distributed systems**.
+I'm a Computer Science student at the University of Pisa, passionate about technology and software development.
 
 ## About Me
 
 - 🎓 Currently studying Computer Science at the University of Pisa
-- 🌍 Interested in projects involving distributed systems, cloud computing, and microservices architecture
+- 🌍 Interested in projects involving distributed systems and fields related to computer science.
 - 💻 Always eager to learn new technologies and improve my programming skills
 
 ## Get in Touch
