@@ -13,3 +13,5 @@ I'm a Computer Science student at the University of Pisa, passionate about techn
 - 📫 You can reach me at: [dade.orsu@gmail.com](mailto:dade.orsu@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/davide-orsucci-206319250/)
 - 📷 Follow me on [Instagram](https://www.instagram.com/davide_orsucci/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadeOrsu&show_icons=true&theme=radical)
